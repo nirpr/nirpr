@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Graduate |<br>Passionate about machine learning and backend development
+Software developer |<br>Passionate about machine learning and backend development
 
 
 ## 🌐 Socials:
