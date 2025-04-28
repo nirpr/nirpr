@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software developer |<br>Passionate about machine learning and backend development
+Software developer
 
 
 ## 🌐 Socials:
